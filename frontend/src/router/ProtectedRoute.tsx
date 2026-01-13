@@ -1,4 +1,4 @@
-import {Navigate, Outlet} from "react-router-dom"
+ import {Navigate, Outlet} from "react-router-dom"
 import type {AppUser} from "../types/types"
 import {routerConfig} from "./routerConfig"
 
